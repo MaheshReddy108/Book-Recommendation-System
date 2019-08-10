@@ -1,8 +1,5 @@
 # CMPE256_Individual_Project
 Book Recommendation System
-Individual Project Report
-CMPE 256: Large Scale Analytics, Summer 2019
- Book Recommendation System 
 
 Name:  Mahesh Reddy Konatham
 SJSU ID: 013823095
